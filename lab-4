@@ -4,10 +4,10 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>INST377 - Lab-4</title>
+    <title>INST377 - Lab 4</title>
     <style>
         body {
-            background-color: rgb(29, 141, 4);
+            background-color: rgb(104, 244, 72);
             font-family: Arial, sans-serif;
         }
 
@@ -17,7 +17,7 @@
 
         .section {
             display: inline-block;
-            width: 260px;
+            width: 250px;
             margin: 5px;
             padding: 5px;
             background-color: rgb(231, 151, 39);
